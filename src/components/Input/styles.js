@@ -16,14 +16,16 @@ export const InputContainer = styled.div`
     input {
         width: 100%;
         height: 75px;
-        background-color: #AAAAFF;
+        background-color: #000000;
         border: 0;
         display: flex;
         flex-direction: column;
         align-items: flex-end;
-        padding: 0 10px;
+        padding: 0 20px;
         font-size: 24px;
         font-family: 'Roboto';
-        color: #FFFFFF;
+        color: #cdffcd;
+        text-align: right;
+        font-weight: 800;
     }
 `

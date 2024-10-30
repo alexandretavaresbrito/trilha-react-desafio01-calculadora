@@ -30,3 +30,11 @@ export const Column = styled.div`
     align-items: center;
 `
 
+export const WhiteSpace = styled.div`
+padding: 20px;
+border: 1px solid #FFFFFF;
+background-color: #FFFFFF;
+color: #FFFFFF;
+white-space: nowrap;
+`
+
